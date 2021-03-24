@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/danielcerongrajales/Lists/compare/v1.0.0...v1.1.0) (2021-03-24)
+
+
+### Features
+
+* correction of badges and title inside the  README file ([e654e68](https://github.com/danielcerongrajales/Lists/commit/e654e688ae33978756aeb4de96522128f3f5aebd))
+
 ## 1.0.0 (2021-03-23)
 
 
